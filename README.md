@@ -2,7 +2,7 @@
 
 Projeto de Aprendizagem e Decisão Inteligentes
 
-Classificação do projeto: .../20
+Classificação do projeto: 17/20
 
 # Autores
 
