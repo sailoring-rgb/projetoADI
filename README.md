@@ -1,12 +1,12 @@
 # ADI
 
-Projeto de Aprendizagem e Decisão Inteligentes
+Project accomplished in the scope of <b><i>Intelligent Decisioning and Learning 21/22</i></b>
 
-Classificação do projeto: 17/20
+Final Classification: 17/20
 
-# Autores
+# Authors
 
-- Ana Murta
-- Ana Henriques
-- Rui Coelho
-- Tiago Carneiro
+- <a href="https://github.com/AnaMurta10">Ana Murta</a>
+- <a href="https://github.com/sailoring-rgb">Ana Henriques</a>
+- <a href="https://github.com/ruipgcoelho">Rui Coelho</a>
+- <a href="https://github.com/Tiago5Carneiro">Tiago Carneiro</a>
